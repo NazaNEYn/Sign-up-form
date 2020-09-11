@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    padding-top: 50px;
+    line-height: 150%;
+    font-family: sans-serif;
+    color: white;
+    background: linear-gradient(to top, #C2185B 0%, #7B1FA2 50%, #303F9F 100%);
+}
+
+h2 {
+    font-family: serif;
+    font-size: 40px;
+}
+
+form {
+    background: linear-gradient(to top, #EC407A 0%, #AB47BC 50%, #5C6BC0 100%);
+    width: 350px;
+    height: 600px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 50px;
+    border: solid white 2px;
+}
+
+.sex {
+    padding-top: -50px;
+}
+
+.input1 {
+    padding-top: 100px;
+}
+
+input {
+    text-align: center;
+    color: black;
+    margin-top: 18px;
+    padding: 7px;
+    border-radius: 10px;
+    outline: none;
+}
+
+.submit {
+    margin-top: -120px;
+    padding: 5px 8px 5px 8px;
+    width: 100px;
+    height: 35px;
+    font-size: 17px;
+}
+
+.submit:hover {
+    background-color: rgb(252, 252, 252);
+    cursor: pointer;
+}
